@@ -2,7 +2,7 @@ encoding: utf-8
 title: "gpocft.github.io"
 description: "Capture the flag writeups"
 theme: jekyll-theme-hacker
-avatar: /images/gpo.png
+avatar: images/gpo.png
 
 exclude: 
   - README.md
