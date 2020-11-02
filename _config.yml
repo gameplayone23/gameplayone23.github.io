@@ -1,0 +1,11 @@
+encoding: utf-8
+title: "gpocft.github.io"
+description: "Capture the flag writeups"
+theme: jekyll-theme-hacker
+avatar: /images/husky.svg
+
+exclude: 
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
