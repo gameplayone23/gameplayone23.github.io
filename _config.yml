@@ -2,7 +2,7 @@ encoding: utf-8
 title: "GPO Capture the flag"
 description: "Capture the flag writeups"
 theme: jekyll-theme-hacker
-avatar: images/gpo.png
+avatar: /images/gpo.png
 
 exclude: 
   - README.md
