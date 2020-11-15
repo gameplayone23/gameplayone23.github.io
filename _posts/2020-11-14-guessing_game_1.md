@@ -83,7 +83,7 @@ $1 = 83
 
 In the RAX register, we can find the number to guess, note that we have to increment by 1 because of the `do_stuff` function :
 
-(We `Ghidra` to disassemble the binary)
+(We used `Ghidra` to disassemble the binary)
 
 ```c
 ulong do_stuff(void)
@@ -234,4 +234,4 @@ picoCTF{r0p_y0u_l1k3_4_hurr1c4n3_580891753d5e9212}
 
 # CONCLUSION
 
-I've spent hours on this one to find a solution and to understand every details. But a the end i've a better knowledge of asm.
+I've spent hours on this one to find a solution and to understand every details. But at the end i've a better knowledge of asm.
